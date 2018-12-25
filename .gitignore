@@ -1,7 +1,10 @@
-node_modules
-public
-server-build
-.vscode
-dist
+# 通用忽略
 .DS_Store
-package-lock.json
+.vscode
+.idea
+npm-debug.log*
+/node_modules/
+
+/public/
+/server-build/
+/dist/
