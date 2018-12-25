@@ -1,6 +1,8 @@
-# Vue+Webpack打造todo应用
+# Vue + Webpack 的 todo app
 
-热更新不起作用时，就把node_modules这个文件夹删了，然后npm i重新下载，而我先把node_modules这个文件夹改个名，接着npm i重新下载，因为删node_modules也要一些时间，不想等。。<br/>
+## 使用方法
+1、进入根目录执行：npm i
+2、运行：npm run dev
 
 webpack<br/>
 Vue<br/>
